@@ -1,0 +1,39 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-07 14:50+0200\n"
+"PO-Revision-Date: 2023-06-07 14:50+0200\n"
+"Last-Translator: Jose <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+# en -> pt
+#: administrative-gender
+msgid "AdministrativeGender"
+msgstr "Sexo"
+
+#: administrative-gender/title
+msgid "AdministrativeGender"
+msgstr "Sexo"
+
+#: male
+msgid "Male"
+msgstr "Masculino"
+
+#: female
+msgid "Female"
+msgstr "Feminino"
+
+#: other
+msgid "Other"
+msgstr "Outro"
+
+#: unknown
+msgid "Unknown"
+msgstr "Desconhecido"
